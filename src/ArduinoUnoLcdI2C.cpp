@@ -14,9 +14,9 @@ void setup()
   lcd.clear();
   // Imprimir
   lcd.setCursor(0, 0);
-  lcd.print("LCD i2c ESP8266 ");
+  lcd.print("LCD i2c Arduino ");
   lcd.setCursor(0, 1); // Segunda fila
-  lcd.print("tecteach.net.ar ");
+  lcd.print("cantone.com.ar  ");
 }
 
 void loop()
